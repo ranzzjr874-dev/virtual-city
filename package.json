@@ -1,0 +1,9 @@
+{
+  "name": "virtual-city",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "python3 -m http.server 8000"
+  },
+  "description": "Virtual City Platform"
+}
